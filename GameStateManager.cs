@@ -1,6 +1,6 @@
 ﻿/*
 ----------------------------------------------------------------------------------------------------------------
-Developer
+Unity3D Code Bank
 ----------------------------------------------------------------------------------------------------------------
  * This script has been downloaded from Unity3D Code Bank GITHUB repository. 
  * Repository Link : https://github.com/javidshaikhf/Unity3D-Code-Bank
